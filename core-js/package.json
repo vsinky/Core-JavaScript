@@ -1,0 +1,17 @@
+{
+    "name": "core",
+    "version": "1.0.0",
+    "description": "Core javascript practice",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon practice.js"
+    },
+    "keywords": [
+        "js"
+    ],
+    "author": "sinky",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^2.0.15"
+    }
+}
